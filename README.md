@@ -1,18 +1,18 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kunal!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kunal!](https://datta-magar .github.io) 
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/datta-magar-010395216">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/dattamagar211">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:dattamagar211@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="http://dev.to/kunal">
+<a href="http://dev.to/datta">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
@@ -49,6 +49,6 @@
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
 
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
+![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=datta-magar&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=datta-magar.datta-magar)
