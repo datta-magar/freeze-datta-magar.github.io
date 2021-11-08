@@ -24,17 +24,17 @@
 
 ### My Experiences 🙌
 -        “Cyber security intern at SISTMR Australia"
-- •	Set up labs for testing tools and loop wholes in our own environment. 
-- •	Testing and finding vulnerabilities inside websites as well as in network. 
-- •	Learned about man in the middle attack and how encryption works.
+- 	Set up labs for testing tools and loop wholes in our own environment. 
+- 	Testing and finding vulnerabilities inside websites as well as in network. 
+- 	Learned about man in the middle attack and how encryption works.
 
 
 ### Project 🏅
 -       “Social media platform to improve community healthcare"
-- •	Developing it to build the community to make healthy and happy universe. 
-- •	Features – Connections (hospitals, doctors, health workers and organizations), 
+- 	Developing it to build the community to make healthy and happy universe. 
+- 	Features – Connections (hospitals, doctors, health workers and organizations), 
 online slot booking in hospitals for patients.
-- •	Devoted to connect, collaborate, share and learn together to tackle various health issues.  
+- 	Devoted to connect, collaborate, share and learn together to tackle various health issues.  
 
 
 ![Datta's github stats](https://github-readme-stats.vercel.app/api?username=datta-magar&show_icons=true&hide_border=true)
