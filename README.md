@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">👋, I'm [Datta!](https://datta-magar.github.io) 
+## Hey 👋, I'm [Datta!] 
 
 <a href="https://www.linkedin.com/in/datta-magar-010395216">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -23,14 +23,14 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 ### My Experiences 🙌
--        “Cyber security intern at SISTMR Australia"
+## “Cyber security intern at SISTMR Australia"
 - 	Set up labs for testing tools and loop wholes in our own environment. 
 - 	Testing and finding vulnerabilities inside websites as well as in network. 
 - 	Learned about man in the middle attack and how encryption works.
 
 
 ### Project 🏅
--       “Social media platform to improve community healthcare"
+## “Social media platform to improve community healthcare"
 - 	Developing it to build the community to make healthy and happy universe. 
 - 	Features – Connections (hospitals, doctors, health workers and organizations), 
 online slot booking in hospitals for patients.
